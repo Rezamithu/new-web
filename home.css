@@ -1,0 +1,153 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	background: white;
+	margin-left: 0px;
+}
+.mvb{
+	display: flex;
+	background: #148889;
+	color: white;
+	font-size: 12px;
+	padding: 8px 2px 2px 2px;
+}
+.phn{
+	display: flex;
+	text-align: center;
+	margin-left: 200px;
+}
+.mvb p{
+	margin-top: 0px;
+	font-weight: 500;
+}
+.icon{
+	margin-left: 150px;
+}
+.menu{
+	width: 400px;
+	float: left;
+	height: 70px;
+}
+.main{
+	display: flex;
+	margin-top: 5px;
+}
+ul{
+	float: left;
+	display: flex;
+	justify-content: left;
+	align-items: left;
+}
+ul li{
+	list-style: none;
+	margin-left: 60px;
+	margin-top: 0px;
+	font-size: 14px;
+}
+ul li a{
+	text-decoration: none;
+	color: #212122;
+	font-weight: 500;
+}
+ul li a:hover{
+	color: black;
+	font-weight: bold;
+}
+.web{
+	text-align: center;
+	font-weight: 700;
+	color:#000000;
+	font-size: 40px;
+	margin-top: 0px;
+}
+.details{
+	text-align: center;
+	text-align: justify;
+	font-size: 2px;
+	font-weight: 300;
+	color:black;
+	padding: 20px 10px 0px 20px;
+	margin-left: 100px;
+} 
+.pp{
+	font-size: 35px;
+	color:#f69619;
+	text-align: center;
+}
+.pq{
+	padding: 20px 10px 0px 20px;
+	margin-left: 100px;
+}
+.mm{
+	font-weight: 300;
+	text-align: center;
+	font-size:30px;
+	color:#02aaac;
+
+}
+.grid-container{
+	display: grid;
+	grid-template-columns: 360px 360px 360px;
+	justify-content: center;
+	grid-column-gap: 0px;
+}
+.grid{
+	background: white;
+	border-radius: 20px;
+	padding: 20px 10px 0px 20px;
+	box-shadow: 10px 15px 10px 3px #808080;
+}
+.grid h3{
+	font-weight: 600
+	margin-bottom:0px;
+	color: #f69619;
+	text-align: center;
+}
+.grid p{
+	margin-top: 0px;
+	color: #33334f;
+	font-size: 16px;
+	text-align: justify;
+	font-weight: 300;
+}
+.grid a{
+	text-decoration: none;
+	color: #E97D24;
+}
+.mn{
+	color:#02aaac;
+	font-size: 30px;
+	font-weight: 700;
+}
+.flex-container{
+	display: flex;
+}
+.pn{
+	padding: 20px 10px 0px 20px;
+	margin-left: 150px;
+}
+.gg{
+	padding: 20px 5px 0px 20px;
+	margin-right: 10px;
+	margin-top: 50px;
+}
+.pic{
+	margin-left: 200px;
+}
+.h4{
+	margin-bottom: 0px;
+	text-align: center;
+	font-weight: 400;
+	color: #02aaac;
+	font-size: 30px;
+}
+.h44{
+	text-align: center;
+	color: #33334f;
+	font-weight: 300;
+	color: #33334f;
+	font-size: 25px;
+	margin-top: 0px;
+}
+.icon{
+	margin-left: 100px;
+}
